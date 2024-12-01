@@ -28,8 +28,6 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - **Email**: [cristaldtiago@gmail.com]
 
----
-
 Thank you for visiting my profile and projects! 🚀
 ---
 # Thiago - Estudiante de Ingeniería Informática
@@ -61,7 +59,5 @@ Thank you for visiting my profile and projects! 🚀
 Estoy siempre en búsqueda de nuevos retos y oportunidades para aprender y mejorar. Si deseas hablar sobre proyectos, compartir conocimientos o colaborar, no dudes en contactarme.
 
 - **Correo electrónico**: [cristaldtiago@gmail.com]
-
----
 
 ¡Gracias por visitar mi perfil y proyectos! 🚀
