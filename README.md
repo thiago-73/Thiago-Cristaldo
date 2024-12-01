@@ -1,3 +1,37 @@
+# Thiago - Computer Engineering Student
+
+Hello! I'm Thiago, a **Computer Engineering** student. I am passionate about **programming**, **artificial intelligence**, and **software development**. I am currently learning and improving my skills in various programming languages and technologies.
+
+## 📚 Current Knowledge
+### Programming Languages:
+- **Python**: Experience in application development, data analysis, and artificial intelligence.
+- **C**: Learning the fundamentals of systems programming and optimization.
+- **C++**: In the process of learning to dive deeper into object-oriented programming.
+
+### Frameworks and Tools:
+- **Flask**: Developing simple web applications with Python.
+- **Django**: Exploring web development with this framework.
+- **TensorFlow**: Learning about neural networks and artificial intelligence models.
+
+### Areas of Interest:
+- **Artificial Intelligence**: Studying algorithms and AI models.
+- **Web Development**: Creating interactive and functional web applications.
+- **Data Analysis**: Processing and analyzing large volumes of data.
+
+## 🚀 What I am currently learning
+- **C++**: Mastering the basics to move to an intermediate level.
+- **Artificial Intelligence**: Exploring neural networks and predictive models.
+- **Software Development**: Improving skills in structured and object-oriented programming.
+
+## 📬 Let's Connect!
+I am always looking for new challenges and opportunities to learn and grow. If you would like to talk about projects, share knowledge, or collaborate, feel free to reach out.
+
+- **Email**: [cristaldtiago@gmail.com]
+
+---
+
+Thank you for visiting my profile and projects! 🚀
+---
 # Thiago - Estudiante de Ingeniería Informática
 
 ¡Hola! Soy Thiago, estudiante de **Ingeniería Informática**. Me apasiona la programación, la **inteligencia artificial** y el **desarrollo de software**. Actualmente estoy aprendiendo y perfeccionando mis habilidades en diversos lenguajes y tecnologías.
