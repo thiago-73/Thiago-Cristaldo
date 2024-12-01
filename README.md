@@ -28,8 +28,10 @@ I am always looking for new challenges and opportunities to learn and grow. If y
 
 - **Email**: [cristaldtiago@gmail.com]
 
-Thank you for visiting my profile and projects! 🚀
+##Thank you for visiting my profile and projects! 🚀
+
 ---
+
 # Thiago - Estudiante de Ingeniería Informática
 
 ¡Hola! Soy Thiago, estudiante de **Ingeniería Informática**. Me apasiona la programación, la **inteligencia artificial** y el **desarrollo de software**. Actualmente estoy aprendiendo y perfeccionando mis habilidades en diversos lenguajes y tecnologías.
@@ -60,4 +62,4 @@ Estoy siempre en búsqueda de nuevos retos y oportunidades para aprender y mejor
 
 - **Correo electrónico**: [cristaldtiago@gmail.com]
 
-¡Gracias por visitar mi perfil y proyectos! 🚀
+##¡Gracias por visitar mi perfil y proyectos! 🚀
